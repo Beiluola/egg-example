@@ -1,0 +1,5 @@
+scalar ZeroInt
+
+type Query{
+  getUser(number:ZeroInt):Int
+}
